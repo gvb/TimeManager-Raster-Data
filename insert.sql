@@ -1,952 +1,952 @@
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:00.0',
         './cam190637-002395200_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371552 43.384411, -86.371071 43.376152, -86.377548 43.375465, -86.379173 43.379852, -86.371552 43.384411))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:00.5',
         './cam190637-002395205_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371437 43.384201, -86.371048 43.375912, -86.377510 43.375240, -86.379112 43.379639, -86.371437 43.384201))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:01.0',
         './cam190637-002395210_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371346 43.383984, -86.371002 43.375675, -86.377464 43.375011, -86.379051 43.379414, -86.371346 43.383984))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:01.5',
         './cam190637-002395215_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371254 43.383770, -86.370956 43.375439, -86.377419 43.374786, -86.378983 43.379189, -86.371254 43.383770))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:02.0',
         './cam190637-002395220_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371277 43.383492, -86.370964 43.375210, -86.377388 43.374554, -86.378960 43.378941, -86.371277 43.383492))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:02.5',
         './cam190637-002395225_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371132 43.383293, -86.370934 43.374962, -86.377350 43.374332, -86.378883 43.378731, -86.371132 43.383293))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:03.0',
         './cam190637-002395230_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370934 43.383118, -86.370903 43.374714, -86.377312 43.374111, -86.378792 43.378529, -86.370934 43.383118))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:03.5',
         './cam190637-002395235_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370850 43.382900, -86.370872 43.374481, -86.377274 43.373886, -86.378738 43.378304, -86.370850 43.382900))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:03.9',
         './cam190637-002395239_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371002 43.382580, -86.370834 43.374271, -86.377228 43.373646, -86.378746 43.378017, -86.371002 43.382580))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:04.4',
         './cam190637-002395244_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371170 43.382233, -86.370842 43.374050, -86.377197 43.373402, -86.378754 43.377735, -86.371170 43.382233))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:04.9',
         './cam190637-002395249_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371254 43.381947, -86.370789 43.373837, -86.377144 43.373165, -86.378746 43.377464, -86.371254 43.381947))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:05.4',
         './cam190637-002395254_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371193 43.381718, -86.370750 43.373604, -86.377106 43.372936, -86.378693 43.377232, -86.371193 43.381718))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:05.9',
         './cam190637-002395259_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371147 43.381466, -86.370750 43.373363, -86.377075 43.372704, -86.378647 43.376999, -86.371147 43.381466))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:06.4',
         './cam190637-002395264_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370903 43.381310, -86.370750 43.373104, -86.377052 43.372490, -86.378548 43.376816, -86.370903 43.381310))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:06.9',
         './cam190637-002395269_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370636 43.381153, -86.370743 43.372841, -86.377029 43.372272, -86.378441 43.376637, -86.370636 43.381153))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:07.4',
         './cam190637-002395274_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370483 43.380959, -86.370712 43.372597, -86.376991 43.372047, -86.378365 43.376423, -86.370483 43.380959))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:07.9',
         './cam190637-002395279_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370598 43.380661, -86.370674 43.372383, -86.376945 43.371807, -86.378365 43.376148, -86.370598 43.380661))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:08.3',
         './cam190637-002395283_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370735 43.380341, -86.370659 43.372166, -86.376915 43.371567, -86.378372 43.375870, -86.370735 43.380341))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:08.8',
         './cam190637-002395288_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370758 43.380062, -86.370659 43.371929, -86.376884 43.371330, -86.378349 43.375618, -86.370758 43.380062))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:09.3',
         './cam190637-002395293_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370811 43.379784, -86.370636 43.371704, -86.376854 43.371094, -86.378334 43.375359, -86.370811 43.379784))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:09.8',
         './cam190637-002395298_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370781 43.379536, -86.370621 43.371468, -86.376823 43.370861, -86.378296 43.375122, -86.370781 43.379536))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:10.3',
         './cam190637-002395303_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370689 43.379318, -86.370567 43.371231, -86.376778 43.370628, -86.378235 43.374889, -86.370689 43.379318))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:10.8',
         './cam190637-002395308_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370689 43.379059, -86.370560 43.370998, -86.376747 43.370396, -86.378204 43.374645, -86.370689 43.379059))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:11.3',
         './cam190637-002395313_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370674 43.378807, -86.370514 43.370770, -86.376701 43.370163, -86.378166 43.374397, -86.370674 43.378807))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:11.8',
         './cam190637-002395318_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370743 43.378517, -86.370499 43.370541, -86.376671 43.369926, -86.378151 43.374130, -86.370743 43.378517))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:12.7',
         './cam190637-002395327_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371071 43.377834, -86.370522 43.370102, -86.376617 43.369438, -86.378181 43.373558, -86.371071 43.377834))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:13.2',
         './cam190637-002395332_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371040 43.377590, -86.370476 43.369869, -86.376572 43.369205, -86.378143 43.373314, -86.371040 43.377590))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:13.7',
         './cam190637-002395337_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371078 43.377319, -86.370430 43.369648, -86.376526 43.368969, -86.378113 43.373055, -86.371078 43.377319))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:14.2',
         './cam190637-002395342_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371124 43.377033, -86.370415 43.369419, -86.376488 43.368729, -86.378098 43.372795, -86.371124 43.377033))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:14.7',
         './cam190637-002395347_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371117 43.376770, -86.370407 43.369183, -86.376465 43.368496, -86.378067 43.372551, -86.371117 43.376770))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:15.2',
         './cam190637-002395352_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371033 43.376545, -86.370399 43.368938, -86.376434 43.368267, -86.378006 43.372330, -86.371033 43.376545))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:15.7',
         './cam190637-002395357_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370842 43.376373, -86.370361 43.368690, -86.376396 43.368046, -86.377922 43.372131, -86.370842 43.376373))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:16.2',
         './cam190637-002395362_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370697 43.376175, -86.370331 43.368446, -86.376358 43.367821, -86.377853 43.371918, -86.370697 43.376175))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:16.7',
         './cam190637-002395367_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370728 43.375908, -86.370277 43.368225, -86.376305 43.367584, -86.377823 43.371662, -86.370728 43.375908))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:17.1',
         './cam190637-002395371_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370834 43.375610, -86.370224 43.368011, -86.376251 43.367344, -86.377815 43.371387, -86.370834 43.375610))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:17.6',
         './cam190637-002395376_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371033 43.375259, -86.370193 43.367802, -86.376205 43.367096, -86.377838 43.371090, -86.371033 43.375259))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:18.1',
         './cam190637-002395381_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371078 43.374981, -86.370163 43.367577, -86.376160 43.366859, -86.377815 43.370834, -86.371078 43.374981))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:18.6',
         './cam190637-002395386_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370972 43.374763, -86.370155 43.367329, -86.376129 43.366631, -86.377754 43.370621, -86.370972 43.374763))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:19.1',
         './cam190637-002395391_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370872 43.374550, -86.370132 43.367085, -86.376099 43.366402, -86.377693 43.370403, -86.370872 43.374550))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:19.6',
         './cam190637-002395396_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370705 43.374374, -86.370064 43.366848, -86.376045 43.366180, -86.377609 43.370193, -86.370705 43.374374))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:20.1',
         './cam190637-002395401_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370682 43.374134, -86.370010 43.366623, -86.375992 43.365948, -86.377563 43.369953, -86.370682 43.374134))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:20.6',
         './cam190637-002395406_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370697 43.373871, -86.369980 43.366394, -86.375954 43.365715, -86.377541 43.369709, -86.370697 43.373871))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:21.1',
         './cam190637-002395411_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370750 43.373592, -86.369949 43.366177, -86.375908 43.365479, -86.377518 43.369450, -86.370750 43.373592))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:21.5',
         './cam190637-002395415_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370888 43.373280, -86.369911 43.365963, -86.375862 43.365238, -86.377525 43.369175, -86.370888 43.373280))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:22.0',
         './cam190637-002395420_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370964 43.372978, -86.369904 43.365738, -86.375832 43.365002, -86.377518 43.368912, -86.370964 43.372978))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:22.5',
         './cam190637-002395425_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370857 43.372776, -86.369873 43.365501, -86.375793 43.364777, -86.377457 43.368698, -86.370857 43.372776))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:23.0',
         './cam190637-002395430_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370766 43.372578, -86.369804 43.365273, -86.375740 43.364552, -86.377396 43.368477, -86.370766 43.372578))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:23.5',
         './cam190637-002395435_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370743 43.372322, -86.369797 43.365036, -86.375717 43.364319, -86.377365 43.368240, -86.370743 43.372322))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:24.0',
         './cam190637-002395440_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370712 43.372086, -86.369766 43.364807, -86.375679 43.364090, -86.377319 43.368008, -86.370712 43.372086))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:24.5',
         './cam190637-002395445_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370628 43.371880, -86.369705 43.364574, -86.375626 43.363865, -86.377266 43.367786, -86.370628 43.371880))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:25.0',
         './cam190637-002395450_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370644 43.371616, -86.369690 43.364349, -86.375595 43.363632, -86.377243 43.367546, -86.370644 43.371616))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:25.5',
         './cam190637-002395455_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370712 43.371338, -86.369644 43.364136, -86.375549 43.363400, -86.377228 43.367287, -86.370712 43.371338))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:25.9',
         './cam190637-002395459_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370819 43.371048, -86.369598 43.363926, -86.375496 43.363163, -86.377228 43.367020, -86.370819 43.371048))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:26.4',
         './cam190637-002395464_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371086 43.370670, -86.369583 43.363731, -86.375458 43.362915, -86.377274 43.366711, -86.371086 43.370670))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:26.9',
         './cam190637-002395469_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371239 43.370354, -86.369545 43.363529, -86.375404 43.362675, -86.377281 43.366428, -86.371239 43.370354))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:27.4',
         './cam190637-002395474_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371315 43.370083, -86.369484 43.363323, -86.375359 43.362438, -86.377274 43.366173, -86.371315 43.370083))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:27.9',
         './cam190637-002395479_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371300 43.369850, -86.369415 43.363110, -86.375298 43.362213, -86.377243 43.365940, -86.371300 43.369850))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:28.4',
         './cam190637-002395484_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371338 43.369606, -86.369339 43.362907, -86.375237 43.361984, -86.377220 43.365696, -86.371338 43.369606))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:28.9',
         './cam190637-002395489_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371468 43.369297, -86.369301 43.362709, -86.375191 43.361752, -86.377228 43.365429, -86.371468 43.369297))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:29.4',
         './cam190637-002395494_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371590 43.369007, -86.369263 43.362507, -86.375137 43.361519, -86.377228 43.365166, -86.371590 43.369007))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:29.9',
         './cam190637-002395499_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371704 43.368706, -86.369240 43.362309, -86.375092 43.361286, -86.377235 43.364906, -86.371704 43.368706))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:30.3',
         './cam190637-002395503_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371590 43.368534, -86.369164 43.362087, -86.375038 43.361073, -86.377174 43.364712, -86.371590 43.368534))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:30.8',
         './cam190637-002395508_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371231 43.368481, -86.369080 43.361835, -86.375000 43.360878, -86.377037 43.364586, -86.371231 43.368481))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:31.8',
         './cam190637-002395518_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371208 43.368034, -86.368958 43.361427, -86.374886 43.360447, -86.376968 43.364143, -86.371208 43.368034))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:32.3',
         './cam190637-002395523_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371246 43.367786, -86.368896 43.361229, -86.374832 43.360229, -86.376945 43.363911, -86.371246 43.367786))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:32.8',
         './cam190637-002395528_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371300 43.367538, -86.368843 43.361038, -86.374771 43.360012, -86.376923 43.363674, -86.371300 43.367538))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:33.3',
         './cam190637-002395533_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371216 43.367344, -86.368797 43.360821, -86.374725 43.359802, -86.376869 43.363480, -86.371216 43.367344))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:33.8',
         './cam190637-002395538_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371170 43.367142, -86.368729 43.360615, -86.374672 43.359592, -86.376823 43.363274, -86.371170 43.367142))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:34.3',
         './cam190637-002395543_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.371040 43.366982, -86.368668 43.360397, -86.374626 43.359390, -86.376755 43.363098, -86.371040 43.366982))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:35.2',
         './cam190637-002395552_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370804 43.366665, -86.368492 43.359982, -86.374504 43.358986, -86.376617 43.362728, -86.370804 43.366665))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:35.7',
         './cam190637-002395557_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370819 43.366428, -86.368462 43.359783, -86.374466 43.358776, -86.376595 43.362511, -86.370819 43.366428))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:36.7',
         './cam190637-002395567_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370903 43.365948, -86.368347 43.359406, -86.374352 43.358356, -86.376549 43.362057, -86.370903 43.365948))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:37.2',
         './cam190637-002395572_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370934 43.365719, -86.368271 43.359222, -86.374283 43.358147, -86.376526 43.361832, -86.370934 43.365719))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:37.7',
         './cam190637-002395577_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370941 43.365501, -86.368210 43.359035, -86.374229 43.357941, -86.376495 43.361618, -86.370941 43.365501))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:38.2',
         './cam190637-002395582_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370857 43.365322, -86.368156 43.358829, -86.374184 43.357742, -86.376442 43.361435, -86.370857 43.365322))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:38.7',
         './cam190637-002395587_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370735 43.365173, -86.368095 43.358624, -86.374138 43.357548, -86.376381 43.361267, -86.370735 43.365173))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:39.1',
         './cam190637-002395591_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370705 43.364979, -86.368027 43.358433, -86.374077 43.357349, -86.376343 43.361065, -86.370705 43.364979))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:39.6',
         './cam190637-002395596_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370689 43.364773, -86.367958 43.358246, -86.374023 43.357147, -86.376305 43.360863, -86.370689 43.364773))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:40.1',
         './cam190637-002395601_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370644 43.364590, -86.367889 43.358055, -86.373970 43.356953, -86.376259 43.360672, -86.370644 43.364590))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:40.6',
         './cam190637-002395606_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370583 43.364422, -86.367805 43.357872, -86.373909 43.356758, -86.376213 43.360485, -86.370583 43.364422))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:41.1',
         './cam190637-002395611_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370537 43.364239, -86.367737 43.357685, -86.373856 43.356564, -86.376167 43.360294, -86.370537 43.364239))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:41.6',
         './cam190637-002395616_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370354 43.364120, -86.367668 43.357475, -86.373810 43.356380, -86.376083 43.360146, -86.370354 43.364120))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:42.1',
         './cam190637-002395621_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370270 43.363953, -86.367630 43.357277, -86.373772 43.356194, -86.376030 43.359970, -86.370270 43.363953))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:42.6',
         './cam190637-002395626_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370193 43.363777, -86.367592 43.357075, -86.373734 43.356003, -86.375984 43.359791, -86.370193 43.363777))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:43.1',
         './cam190637-002395631_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370033 43.363644, -86.367538 43.356873, -86.373695 43.355820, -86.375908 43.359634, -86.370033 43.363644))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:43.5',
         './cam190637-002395635_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.369995 43.363468, -86.367455 43.356693, -86.373634 43.355629, -86.375862 43.359444, -86.369995 43.363468))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:44.0',
         './cam190637-002395640_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370041 43.363228, -86.367447 43.356506, -86.373596 43.355431, -86.375847 43.359234, -86.370041 43.363228))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:44.5',
         './cam190637-002395645_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370064 43.363014, -86.367393 43.356331, -86.373543 43.355240, -86.375824 43.359024, -86.370064 43.363014))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:45.0',
         './cam190637-002395650_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.370018 43.362835, -86.367310 43.356152, -86.373489 43.355049, -86.375778 43.358837, -86.370018 43.362835))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:45.5',
         './cam190637-002395655_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.369881 43.362690, -86.367294 43.355938, -86.373466 43.354866, -86.375717 43.358681, -86.369881 43.362690))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:46.0',
         './cam190637-002395660_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.369736 43.362556, -86.367233 43.355740, -86.373421 43.354687, -86.375641 43.358524, -86.369736 43.362556))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:46.5',
         './cam190637-002395665_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.369682 43.362377, -86.367172 43.355556, -86.373367 43.354500, -86.375595 43.358337, -86.369682 43.362377))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:47.0',
         './cam190637-002395670_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.369781 43.362122, -86.367142 43.355385, -86.373322 43.354301, -86.375595 43.358112, -86.369781 43.362122))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:47.5',
         './cam190637-002395675_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.369789 43.361916, -86.367073 43.355213, -86.373268 43.354107, -86.375565 43.357910, -86.369789 43.361916))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:47.9',
         './cam190637-002395679_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.369843 43.361687, -86.367020 43.355042, -86.373215 43.353912, -86.375549 43.357693, -86.369843 43.361687))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:48.4',
         './cam190637-002395684_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.369934 43.361435, -86.366982 43.354877, -86.373161 43.353718, -86.375549 43.357468, -86.369934 43.361435))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:48.9',
         './cam190637-002395689_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.369987 43.361202, -86.366943 43.354702, -86.373116 43.353523, -86.375534 43.357258, -86.369987 43.361202))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:49.4',
         './cam190637-002395694_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.369995 43.361000, -86.366905 43.354523, -86.373070 43.353333, -86.375511 43.357063, -86.369995 43.361000))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:49.9',
         './cam190637-002395699_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.369934 43.360828, -86.366844 43.354340, -86.373024 43.353146, -86.375465 43.356888, -86.369934 43.360828))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:50.4',
         './cam190637-002395704_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.369820 43.360699, -86.366760 43.354156, -86.372971 43.352966, -86.375404 43.356728, -86.369820 43.360699))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:50.9',
         './cam190637-002395709_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.369652 43.360592, -86.366684 43.353958, -86.372925 43.352795, -86.375328 43.356586, -86.369652 43.360592))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:51.4',
         './cam190637-002395714_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.369606 43.360416, -86.366631 43.353783, -86.372879 43.352612, -86.375290 43.356411, -86.369606 43.360416))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:51.9',
         './cam190637-002395719_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.369644 43.360199, -86.366592 43.353611, -86.372833 43.352421, -86.375275 43.356209, -86.369644 43.360199))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:52.3',
         './cam190637-002395723_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.369659 43.360004, -86.366516 43.353447, -86.372772 43.352238, -86.375244 43.356014, -86.369659 43.360004))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:52.8',
         './cam190637-002395728_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.369720 43.359783, -86.366447 43.353291, -86.372711 43.352051, -86.375229 43.355801, -86.369720 43.359783))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:53.3',
         './cam190637-002395733_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.369713 43.359600, -86.366379 43.353127, -86.372650 43.351868, -86.375198 43.355614, -86.369713 43.359600))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:53.8',
         './cam190637-002395738_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.369415 43.359550, -86.366325 43.352905, -86.372627 43.351707, -86.375092 43.355518, -86.369415 43.359550))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:54.8',
         './cam190637-002395748_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.368759 43.359501, -86.366180 43.352478, -86.372559 43.351391, -86.374847 43.355343, -86.368759 43.359501))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:55.3',
         './cam190637-002395753_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.368805 43.359272, -86.366165 43.352306, -86.372520 43.351208, -86.374832 43.355141, -86.368805 43.359272))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:55.8',
         './cam190637-002395758_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.368881 43.359039, -86.366127 43.352146, -86.372475 43.351021, -86.374825 43.354931, -86.368881 43.359039))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:56.7',
         './cam190637-002395767_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.368713 43.358730, -86.366013 43.351788, -86.372383 43.350670, -86.374710 43.354599, -86.368713 43.358730))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:57.2',
         './cam190637-002395772_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.368683 43.358547, -86.365952 43.351616, -86.372330 43.350494, -86.374672 43.354416, -86.368683 43.358547))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:57.7',
         './cam190637-002395777_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.368698 43.358349, -86.365883 43.351456, -86.372261 43.350315, -86.374641 43.354221, -86.368698 43.358349))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:58.2',
         './cam190637-002395782_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.368729 43.358135, -86.365829 43.351292, -86.372208 43.350128, -86.374611 43.354019, -86.368729 43.358135))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:58.7',
         './cam190637-002395787_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.368660 43.357964, -86.365791 43.351109, -86.372162 43.349953, -86.374557 43.353851, -86.368660 43.357964))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:59.2',
         './cam190637-002395792_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.368515 43.357834, -86.365746 43.350918, -86.372116 43.349785, -86.374481 43.353706, -86.368515 43.357834))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:32:59.7',
         './cam190637-002395797_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.368362 43.357708, -86.365700 43.350723, -86.372078 43.349617, -86.374397 43.353561, -86.368362 43.357708))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:00.2',
         './cam190637-002395802_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.368355 43.357517, -86.365616 43.350563, -86.372009 43.349442, -86.374352 43.353371, -86.368355 43.357517))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:00.7',
         './cam190637-002395807_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.368408 43.357277, -86.365601 43.350395, -86.371964 43.349255, -86.374336 43.353165, -86.368408 43.357277))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:01.1',
         './cam190637-002395811_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.368393 43.357086, -86.365555 43.350224, -86.371902 43.349079, -86.374290 43.352982, -86.368393 43.357086))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:01.6',
         './cam190637-002395816_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.368301 43.356930, -86.365479 43.350048, -86.371841 43.348904, -86.374222 43.352814, -86.368301 43.356930))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:02.1',
         './cam190637-002395821_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.368263 43.356747, -86.365402 43.349880, -86.371773 43.348728, -86.374168 43.352634, -86.368263 43.356747))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:02.6',
         './cam190637-002395826_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.368233 43.356564, -86.365349 43.349709, -86.371719 43.348553, -86.374123 43.352455, -86.368233 43.356564))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:03.1',
         './cam190637-002395831_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.368134 43.356411, -86.365273 43.349533, -86.371658 43.348381, -86.374054 43.352291, -86.368134 43.356411))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:03.6',
         './cam190637-002395836_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.368103 43.356228, -86.365189 43.349369, -86.371582 43.348206, -86.374001 43.352104, -86.368103 43.356228))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:04.1',
         './cam190637-002395841_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.368126 43.356014, -86.365158 43.349201, -86.371529 43.348022, -86.373962 43.351910, -86.368126 43.356014))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:04.6',
         './cam190637-002395846_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.368095 43.355824, -86.365105 43.349030, -86.371475 43.347847, -86.373917 43.351730, -86.368095 43.355824))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:05.1',
         './cam190637-002395851_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.368034 43.355656, -86.365021 43.348862, -86.371407 43.347675, -86.373856 43.351555, -86.368034 43.355656))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:05.5',
         './cam190637-002395855_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.368073 43.355434, -86.364967 43.348701, -86.371338 43.347492, -86.373825 43.351357, -86.368073 43.355434))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:06.0',
         './cam190637-002395860_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.368080 43.355225, -86.364929 43.348534, -86.371284 43.347313, -86.373787 43.351166, -86.368080 43.355225))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:06.5',
         './cam190637-002395865_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.368004 43.355064, -86.364845 43.348362, -86.371216 43.347141, -86.373718 43.350998, -86.368004 43.355064))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:07.0',
         './cam190637-002395870_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.367882 43.354931, -86.364769 43.348186, -86.371155 43.346973, -86.373642 43.350845, -86.367882 43.354931))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:07.5',
         './cam190637-002395875_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.367760 43.354801, -86.364662 43.348015, -86.371078 43.346806, -86.373558 43.350689, -86.367760 43.354801))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:08.0',
         './cam190637-002395880_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.367767 43.354599, -86.364594 43.347858, -86.371010 43.346630, -86.373520 43.350498, -86.367767 43.354599))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:08.5',
         './cam190637-002395885_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.367722 43.354416, -86.364548 43.347683, -86.370949 43.346455, -86.373466 43.350327, -86.367722 43.354416))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:09.0',
         './cam190637-002395890_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.367622 43.354267, -86.364494 43.347504, -86.370895 43.346291, -86.373390 43.350174, -86.367622 43.354267))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:09.5',
         './cam190637-002395895_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.367462 43.354153, -86.364403 43.347328, -86.370827 43.346127, -86.373306 43.350033, -86.367462 43.354153))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:09.9',
         './cam190637-002395899_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.367378 43.354004, -86.364311 43.347164, -86.370750 43.345959, -86.373230 43.349869, -86.367378 43.354004))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:10.4',
         './cam190637-002395904_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.367424 43.353783, -86.364235 43.347015, -86.370674 43.345779, -86.373199 43.349667, -86.367424 43.353783))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:10.9',
         './cam190637-002395909_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.367546 43.353519, -86.364189 43.346870, -86.370598 43.345596, -86.373192 43.349445, -86.367546 43.353519))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:11.4',
         './cam190637-002395914_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.367554 43.353317, -86.364120 43.346710, -86.370529 43.345417, -86.373146 43.349255, -86.367554 43.353317))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:11.9',
         './cam190637-002395919_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.367355 43.353222, -86.364052 43.346523, -86.370476 43.345261, -86.373047 43.349133, -86.367355 43.353222))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:12.9',
         './cam190637-002395929_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.366936 43.353039, -86.363899 43.346142, -86.370369 43.344944, -86.372841 43.348885, -86.366936 43.353039))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:13.4',
         './cam190637-002395934_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.366852 43.352886, -86.363831 43.345974, -86.370300 43.344776, -86.372772 43.348728, -86.366852 43.352886))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:13.9',
         './cam190637-002395939_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.366875 43.352680, -86.363762 43.345821, -86.370232 43.344604, -86.372734 43.348534, -86.366875 43.352680))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:14.3',
         './cam190637-002395943_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.366859 43.352501, -86.363647 43.345676, -86.370140 43.344433, -86.372681 43.348347, -86.366859 43.352501))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:14.8',
         './cam190637-002395948_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.366882 43.352287, -86.363609 43.345516, -86.370079 43.344257, -86.372650 43.348156, -86.366882 43.352287))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:15.3',
         './cam190637-002395953_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.366745 43.352150, -86.363564 43.345325, -86.370033 43.344093, -86.372566 43.348015, -86.366745 43.352150))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:15.8',
         './cam190637-002395958_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.366646 43.352005, -86.363503 43.345154, -86.369972 43.343925, -86.372498 43.347858, -86.366646 43.352005))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:16.3',
         './cam190637-002395963_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.366524 43.351868, -86.363419 43.344978, -86.369911 43.343761, -86.372414 43.347710, -86.366524 43.351868))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:16.8',
         './cam190637-002395968_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.366440 43.351711, -86.363358 43.344807, -86.369850 43.343597, -86.372345 43.347549, -86.366440 43.351711))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:17.3',
         './cam190637-002395973_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.366333 43.351570, -86.363274 43.344639, -86.369781 43.343433, -86.372269 43.347393, -86.366333 43.351570))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:17.8',
         './cam190637-002395978_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.366173 43.351460, -86.363159 43.344471, -86.369698 43.343269, -86.372177 43.347252, -86.366173 43.351460))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:18.3',
         './cam190637-002395983_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.366142 43.351284, -86.363091 43.344311, -86.369629 43.343102, -86.372124 43.347076, -86.366142 43.351284))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:18.7',
         './cam190637-002395987_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.366074 43.351116, -86.363045 43.344135, -86.369568 43.342934, -86.372055 43.346912, -86.366074 43.351116))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:19.2',
         './cam190637-002395992_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.366005 43.350956, -86.362953 43.343975, -86.369492 43.342770, -86.371986 43.346748, -86.366005 43.350956))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:19.7',
         './cam190637-002395997_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.365997 43.350758, -86.362900 43.343815, -86.369431 43.342594, -86.371941 43.346565, -86.365997 43.350758))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:20.2',
         './cam190637-002396002_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.365929 43.350590, -86.362846 43.343643, -86.369370 43.342426, -86.371880 43.346397, -86.365929 43.350590))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:20.7',
         './cam190637-002396007_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.365814 43.350445, -86.362785 43.343464, -86.369308 43.342262, -86.371796 43.346249, -86.365814 43.350445))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:21.2',
         './cam190637-002396012_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.365768 43.350277, -86.362686 43.343311, -86.369225 43.342094, -86.371735 43.346073, -86.365768 43.350277))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:21.7',
         './cam190637-002396017_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.365822 43.350052, -86.362625 43.343159, -86.369156 43.341915, -86.371704 43.345871, -86.365822 43.350052))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:22.2',
         './cam190637-002396022_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.365929 43.349792, -86.362610 43.343006, -86.369102 43.341736, -86.371696 43.345657, -86.365929 43.349792))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:22.7',
         './cam190637-002396027_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.365814 43.349663, -86.362480 43.342850, -86.369011 43.341572, -86.371613 43.345501, -86.365814 43.349663))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:23.1',
         './cam190637-002396031_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.365669 43.349545, -86.362411 43.342670, -86.368958 43.341412, -86.371529 43.345360, -86.365669 43.349545))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:23.6',
         './cam190637-002396036_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.365288 43.349522, -86.362396 43.342438, -86.368942 43.341267, -86.371384 43.345295, -86.365288 43.349522))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:24.1',
         './cam190637-002396041_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364883 43.349537, -86.362289 43.342232, -86.368881 43.341122, -86.371231 43.345226, -86.364883 43.349537))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:24.6',
         './cam190637-002396046_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364738 43.349419, -86.362183 43.342064, -86.368805 43.340961, -86.371140 43.345081, -86.364738 43.349419))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:25.6',
         './cam190637-002396056_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364906 43.348930, -86.362114 43.341747, -86.368690 43.340595, -86.371101 43.344662, -86.364906 43.348930))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:26.1',
         './cam190637-002396061_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364960 43.348698, -86.362061 43.341591, -86.368629 43.340416, -86.371078 43.344456, -86.364960 43.348698))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:26.6',
         './cam190637-002396066_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.365051 43.348461, -86.361977 43.341450, -86.368546 43.340233, -86.371056 43.344238, -86.365051 43.348461))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:27.1',
         './cam190637-002396071_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.365013 43.348282, -86.361908 43.341282, -86.368477 43.340061, -86.371002 43.344063, -86.365013 43.348282))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:27.5',
         './cam190637-002396075_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364990 43.348099, -86.361832 43.341125, -86.368408 43.339886, -86.370956 43.343880, -86.364990 43.348099))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:28.0',
         './cam190637-002396080_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.365028 43.347893, -86.361732 43.340981, -86.368324 43.339710, -86.370918 43.343678, -86.365028 43.347893))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:28.5',
         './cam190637-002396085_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364899 43.347748, -86.361671 43.340797, -86.368263 43.339542, -86.370834 43.343529, -86.364899 43.347748))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:29.0',
         './cam190637-002396090_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364685 43.347649, -86.361641 43.340595, -86.368225 43.339382, -86.370735 43.343407, -86.364685 43.347649))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:29.5',
         './cam190637-002396095_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364426 43.347572, -86.361572 43.340393, -86.368179 43.339226, -86.370621 43.343296, -86.364426 43.347572))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:30.0',
         './cam190637-002396100_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364136 43.347511, -86.361504 43.340191, -86.368126 43.339073, -86.370491 43.343193, -86.364136 43.347511))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:30.5',
         './cam190637-002396105_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364128 43.347321, -86.361420 43.340034, -86.368050 43.338898, -86.370438 43.343002, -86.364128 43.347321))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:31.0',
         './cam190637-002396110_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364342 43.347008, -86.361359 43.339905, -86.367966 43.338707, -86.370445 43.342747, -86.364342 43.347008))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:31.5',
         './cam190637-002396115_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364632 43.346645, -86.361351 43.339771, -86.367897 43.338509, -86.370483 43.342468, -86.364632 43.346645))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:31.9',
         './cam190637-002396119_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364563 43.346481, -86.361252 43.339611, -86.367813 43.338337, -86.370415 43.342297, -86.364563 43.346481))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:32.4',
         './cam190637-002396124_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364555 43.346287, -86.361145 43.339458, -86.367722 43.338161, -86.370361 43.342106, -86.364555 43.346287))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:32.9',
         './cam190637-002396129_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364716 43.346004, -86.361061 43.339329, -86.367622 43.337971, -86.370354 43.341862, -86.364716 43.346004))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:33.4',
         './cam190637-002396134_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364822 43.345749, -86.361000 43.339188, -86.367538 43.337784, -86.370331 43.341640, -86.364822 43.345749))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:33.9',
         './cam190637-002396139_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364838 43.345531, -86.360931 43.339027, -86.367462 43.337605, -86.370293 43.341446, -86.364838 43.345531))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:34.4',
         './cam190637-002396144_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364746 43.345390, -86.360825 43.338867, -86.367378 43.337440, -86.370216 43.341290, -86.364746 43.345390))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:34.9',
         './cam190637-002396149_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364700 43.345219, -86.360733 43.338711, -86.367294 43.337269, -86.370148 43.341118, -86.364700 43.345219))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:35.4',
         './cam190637-002396154_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364693 43.345024, -86.360664 43.338554, -86.367218 43.337097, -86.370102 43.340935, -86.364693 43.345024))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:35.9',
         './cam190637-002396159_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364601 43.344883, -86.360573 43.338390, -86.367142 43.336933, -86.370026 43.340782, -86.364601 43.344883))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:36.3',
         './cam190637-002396163_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364532 43.344734, -86.360458 43.338238, -86.367050 43.336769, -86.369957 43.340622, -86.364532 43.344734))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:36.8',
         './cam190637-002396168_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364479 43.344570, -86.360367 43.338085, -86.366966 43.336601, -86.369888 43.340454, -86.364479 43.344570))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:37.3',
         './cam190637-002396173_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364426 43.344406, -86.360283 43.337929, -86.366890 43.336437, -86.369827 43.340290, -86.364426 43.344406))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:37.8',
         './cam190637-002396178_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364304 43.344280, -86.360199 43.337761, -86.366821 43.336281, -86.369743 43.340153, -86.364304 43.344280))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:38.3',
         './cam190637-002396183_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364166 43.344154, -86.360130 43.337585, -86.366760 43.336121, -86.369659 43.340015, -86.364166 43.344154))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:38.8',
         './cam190637-002396188_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.364052 43.344036, -86.360008 43.337437, -86.366669 43.335968, -86.369576 43.339870, -86.364052 43.344036))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:39.3',
         './cam190637-002396193_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.363953 43.343903, -86.359917 43.337276, -86.366592 43.335808, -86.369499 43.339725, -86.363953 43.343903))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:39.8',
         './cam190637-002396198_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.363884 43.343742, -86.359863 43.337109, -86.366531 43.335648, -86.369431 43.339569, -86.363884 43.343742))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:40.3',
         './cam190637-002396203_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.363663 43.343666, -86.359787 43.336926, -86.366478 43.335499, -86.369324 43.339466, -86.363663 43.343666))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:40.7',
         './cam190637-002396207_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.363510 43.343559, -86.359688 43.336758, -86.366402 43.335346, -86.369232 43.339336, -86.363510 43.343559))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:41.2',
         './cam190637-002396212_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.363365 43.343456, -86.359573 43.336601, -86.366318 43.335197, -86.369141 43.339203, -86.363365 43.343456))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:41.7',
         './cam190637-002396217_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.363297 43.343300, -86.359482 43.336449, -86.366234 43.335037, -86.369072 43.339046, -86.363297 43.343300))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:42.2',
         './cam190637-002396222_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.363258 43.343147, -86.359360 43.336311, -86.366142 43.334877, -86.369003 43.338882, -86.363258 43.343147))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:42.7',
         './cam190637-002396227_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.363106 43.343040, -86.359253 43.336151, -86.366058 43.334728, -86.368912 43.338753, -86.363106 43.343040))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:43.2',
         './cam190637-002396232_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.362923 43.342945, -86.359169 43.335979, -86.365990 43.334579, -86.368805 43.338634, -86.362923 43.342945))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:43.7',
         './cam190637-002396237_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.362808 43.342800, -86.359131 43.335808, -86.365936 43.334423, -86.368729 43.338493, -86.362808 43.342800))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:44.2',
         './cam190637-002396242_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.362640 43.342709, -86.359001 43.335651, -86.365845 43.334278, -86.368622 43.338367, -86.362640 43.342709))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:44.7',
         './cam190637-002396247_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.362518 43.342579, -86.358917 43.335491, -86.365761 43.334126, -86.368530 43.338226, -86.362518 43.342579))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:45.1',
         './cam190637-002396251_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.362434 43.342430, -86.358833 43.335335, -86.365685 43.333969, -86.368454 43.338078, -86.362434 43.342430))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:45.6',
         './cam190637-002396256_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.362358 43.342274, -86.358742 43.335182, -86.365601 43.333813, -86.368370 43.337921, -86.362358 43.342274))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:46.1',
         './cam190637-002396261_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.362320 43.342098, -86.358665 43.335030, -86.365517 43.333652, -86.368301 43.337757, -86.362320 43.342098))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:46.6',
         './cam190637-002396266_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.362259 43.341930, -86.358597 43.334873, -86.365440 43.333496, -86.368233 43.337597, -86.362259 43.341930))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:47.1',
         './cam190637-002396271_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.362129 43.341805, -86.358505 43.334713, -86.365356 43.333344, -86.368141 43.337456, -86.362129 43.341805))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:47.6',
         './cam190637-002396276_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.362022 43.341675, -86.358383 43.334564, -86.365265 43.333191, -86.368050 43.337311, -86.362022 43.341675))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:48.1',
         './cam190637-002396281_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.362061 43.341469, -86.358276 43.334438, -86.365158 43.333023, -86.367996 43.337116, -86.362061 43.341469))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:48.6',
         './cam190637-002396286_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.362175 43.341213, -86.358200 43.334312, -86.365059 43.332851, -86.367973 43.336903, -86.362175 43.341213))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:49.1',
         './cam190637-002396291_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.362122 43.341038, -86.358124 43.334156, -86.364975 43.332691, -86.367905 43.336735, -86.362122 43.341038))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:49.5',
         './cam190637-002396295_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.361931 43.340946, -86.358025 43.333988, -86.364899 43.332542, -86.367790 43.336620, -86.361931 43.340946))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:50.0',
         './cam190637-002396300_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.361694 43.340881, -86.357910 43.333817, -86.364815 43.332401, -86.367668 43.336514, -86.361694 43.340881))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:50.5',
         './cam190637-002396305_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.361473 43.340801, -86.357819 43.333641, -86.364738 43.332256, -86.367546 43.336407, -86.361473 43.340801))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:51.0',
         './cam190637-002396310_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.361374 43.340656, -86.357727 43.333485, -86.364655 43.332104, -86.367455 43.336258, -86.361374 43.340656))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:51.5',
         './cam190637-002396315_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.361435 43.340439, -86.357597 43.333366, -86.364532 43.331940, -86.367401 43.336060, -86.361435 43.340439))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:52.0',
         './cam190637-002396320_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.361511 43.340199, -86.357544 43.333233, -86.364441 43.331772, -86.367371 43.335857, -86.361511 43.340199))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:52.5',
         './cam190637-002396325_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.361382 43.340076, -86.357437 43.333080, -86.364349 43.331619, -86.367271 43.335720, -86.361382 43.340076))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:53.0',
         './cam190637-002396330_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.361130 43.340008, -86.357346 43.332897, -86.364281 43.331478, -86.367142 43.335621, -86.361130 43.340008))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:53.5',
         './cam190637-002396335_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.361069 43.339844, -86.357246 43.332748, -86.364182 43.331322, -86.367058 43.335461, -86.361069 43.339844))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:53.9',
         './cam190637-002396339_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.361046 43.339661, -86.357147 43.332607, -86.364082 43.331161, -86.366989 43.335285, -86.361046 43.339661))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:54.4',
         './cam190637-002396344_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.361115 43.339436, -86.357033 43.332489, -86.363968 43.330994, -86.366943 43.335083, -86.361115 43.339436))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:54.9',
         './cam190637-002396349_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.361137 43.339226, -86.356956 43.332352, -86.363876 43.330833, -86.366890 43.334896, -86.361137 43.339226))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:55.4',
         './cam190637-002396354_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.361069 43.339066, -86.356880 43.332195, -86.363792 43.330677, -86.366814 43.334747, -86.361069 43.339066))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:55.9',
         './cam190637-002396359_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.360817 43.339012, -86.356750 43.332031, -86.363701 43.330540, -86.366676 43.334648, -86.360817 43.339012))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:56.4',
         './cam190637-002396364_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.360611 43.338936, -86.356636 43.331867, -86.363617 43.330399, -86.366562 43.334538, -86.360611 43.338936))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:56.9',
         './cam190637-002396369_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.360359 43.338890, -86.356483 43.331707, -86.363518 43.330261, -86.366425 43.334442, -86.360359 43.338890))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:57.4',
         './cam190637-002396374_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.360176 43.338795, -86.356384 43.331539, -86.363434 43.330112, -86.366318 43.334324, -86.360176 43.338795))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:57.9',
         './cam190637-002396379_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.360077 43.338646, -86.356323 43.331379, -86.363365 43.329964, -86.366234 43.334183, -86.360077 43.338646))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:58.3',
         './cam190637-002396383_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.359947 43.338524, -86.356232 43.331219, -86.363281 43.329811, -86.366135 43.334045, -86.359947 43.338524))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:58.8',
         './cam190637-002396388_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.359787 43.338413, -86.356117 43.331062, -86.363190 43.329666, -86.366028 43.333916, -86.359787 43.338413))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:59.3',
         './cam190637-002396393_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.359634 43.338310, -86.355995 43.330910, -86.363091 43.329517, -86.365929 43.333786, -86.359634 43.338310))'));
-INSERT INTO "2011-12-20-6x16c-mkg" ("time","img",the_geom)
+INSERT INTO "2011-12-20-mkg" ("time","img",the_geom)
 VALUES ('2011-12-20 18:33:59.8',
         './cam190637-002396398_ortho.jpg',
         ST_GeomFromText('POLYGON ((-86.359589 43.338139, -86.355911 43.330761, -86.363007 43.329361, -86.365852 43.333622, -86.359589 43.338139))'));

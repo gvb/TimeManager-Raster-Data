@@ -11,10 +11,11 @@ The file names are of the format `cam190637-002396398_ortho.jpg` where the part 
 The mktable.sqlite script assumes `init_spatialite.sql` resides in the current directory (a symlink works well).  The file can be downloaded from http://www.gaia-gis.it/spatialite-2.0/index.html.
 
 ```
-spatialite test.db
+spatialite 2011-12-20-mkg.db
 .read mktable.sqlite utf8
 .read insert.sqlite utf8
 .read mkindex.sqlite utf8
+.quit
 ```
 
 ## PostGIS

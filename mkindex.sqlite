@@ -1,2 +1,2 @@
-SELECT CreateSpatialIndex("2011-12-20-6x16c-mkg", "the_geom");
-CREATE INDEX "2011-12-20-6x16c-mkg_time" ON "2011-12-20-6x16c-mkg" ("time");
+SELECT CreateSpatialIndex("2011-12-20-mkg", "the_geom");
+CREATE INDEX "2011-12-20-mkg_time" ON "2011-12-20-mkg" ("time");
